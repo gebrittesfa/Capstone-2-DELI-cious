@@ -1,5 +1,5 @@
- Order date = 2024:06:02-21:00:21
-Sandwich[ Type of bread = Wheat : Size of bread = 4: Type of toppings = [, ham, steak, american, onions, tomatoes, mayo, mustard] : isToasted =true
+Order date = 2024:06:03-13:28:24
+Sandwich[ Type of bread = White : Size of bread = 4: Type of toppings = [, Steak, american, tomatoes, onions, mayo] : isToasted =true
 Drinks: 3
 Chips: 2
-Total Cost: $17.25
+Total Cost: $16.25
